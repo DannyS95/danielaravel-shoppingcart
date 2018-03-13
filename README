@@ -1,0 +1,3 @@
+Projeto com stripe payments, orders, cart guardado em session, order contem campo para o cart object e para o id do pagamento de stripe.
+Um user pode verificar as suas orders.
+Fazer artisan db:seed para inserir produtos.
